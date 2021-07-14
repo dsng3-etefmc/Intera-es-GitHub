@@ -10,12 +10,14 @@ Curso: desenvolvimento de Sistemas
 Materia: Desenvolvimento de APP (DAPP)
 
 ### Integrantes:
-* Marcus Vinicius Ferreira Oliveira
-* Gabriel Feliciano Pontes Morais
-* Nydia Jodar Teles dos Santos
-* Antônio Alexandre Barbosa da Silva
-* Danilo Ribeiro Gaspar
-* Giovana Franciele Gonçalves leite
+* Nydia Jodar Teles dos Santos / Número: 31 
+* Giovana Franciele Gonçalves Leite / Número: 17
+* Marcus Vinicius Ferreira Oliveira  / Número: 29 
+* Gabriel Feliciano Pontes Morais / Número: 15 
+* Antonio Alexandre Barbosa da Silva / Número: 4 
+* Danilo Ribeiro Gaspar / Número: 10 
+
+
 
 
 ## Breve exemplo do projeto
