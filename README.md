@@ -1,7 +1,15 @@
 # Interação GitHub
-Nesse repositório criamos interações com o NPC(em inglês: non-player character) no Unity2D
+Nesse repositório criamos interações com o NPC(em inglês: non-player character) na plataforma Unity2D.
 
-## Integrantes:
+
+## Informações:
+Escola: ETE FMC - https://www.etefmc.com.br/
+
+Curso: desenvolvimento de Sistemas
+
+Materia: Desenvolvimento de APP (DAPP)
+
+### Integrantes:
 * Marcus Vinicius Ferreira Oliveira
 * Gabriel Feliciano Pontes Morais
 * Nydia Jodar Teles dos Santos
@@ -10,5 +18,5 @@ Nesse repositório criamos interações com o NPC(em inglês: non-player charact
 * Giovana Franciele Gonçalves leite
 
 
-## Exemplo
+## Breve exemplo do projeto
 ![Exemplo](https://i.ytimg.com/vi/K9hJTO583_Y/maxresdefault.jpg)
