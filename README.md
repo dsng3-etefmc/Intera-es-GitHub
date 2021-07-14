@@ -5,7 +5,7 @@ Nesse repositório criamos interações com o NPC(em inglês: non-player charact
 ## Informações:
 Escola: ETE FMC - https://www.etefmc.com.br/
 
-Curso: desenvolvimento de Sistemas
+Curso: desenvolvimento de Sistemas - https://www.etefmc.com.br/curso-de-desenvolvimento-de-sistemas
 
 Materia: Desenvolvimento de APP (DAPP)
 
